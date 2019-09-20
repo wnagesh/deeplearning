@@ -1,4 +1,4 @@
-![Python 3.7](https://img.shields.io/travis/com/wnagesh/DL-Python:3.7?color=Green&label=Python%3A3.7&logo=python&style=plastic)
+![Python 3.7](https://img.shields.io/travis/com/wnagesh/DLPython:3.7?color=Green&label=Python%3A3.7&logo=python&style=plastic)
 
 # Deep Learning Models
 
